@@ -4,7 +4,7 @@
   "description": "TP SD - EJ A2 (SPA)",
   "main": "index.js",
   "scripts": {
-    "serve": "node main.js"
+    "start": "node main.js"
   },
   "author": "Martin Lejman",
   "license": "ISC",
